@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-ko-dev&label=Profile%20views&color=00ff00&style=plastic" alt="ma-ko-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-ko-dev" alt="ma-ko-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-ko-dev&theme=juicyfresh&column=3&margin-w=5&margin-h=5&rank=-SECRET" alt="ma-ko-dev" /></a> </p>
 
 - 🔭 I’m currently working on [MaCron](https://github.com/Ma-Ko-dev/MaCron)
 
