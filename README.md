@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **My Cat is my alternative to a rubber ducky and is probably already a good programmer herself by now.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
