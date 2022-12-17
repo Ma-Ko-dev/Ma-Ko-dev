@@ -1,7 +1,11 @@
 <h1 align="center">Hi 😸 I'm Mathias!</h1>
 <h3 align="center">A Aspiring beginner Developer from Germany. Learning something new every day!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-ko-dev&label=Profile%20views&color=00ff00&style=plastic" alt="ma-ko-dev" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ma-ko-dev&label=Profile%20views&color=00ff00&style=plastic" alt="ma-ko-dev" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ma-ko-dev?style=plastic" /> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ma-ko-dev?style=plastic" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-ko-dev&theme=juicyfresh&column=3&margin-w=5&margin-h=5&rank=-SECRET" alt="ma-ko-dev" /></a> </p>
 
