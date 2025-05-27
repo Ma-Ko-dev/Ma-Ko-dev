@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😸 I'm Mathias!</h1>
-<h3 align="center">Am aspiring beginner developer from Germany. Learning something new every day!</h3>
+<h3 align="center">An aspiring beginner developer from Germany. Learning something new every day!</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ma-ko-dev&label=Profile%20views&color=00ff00&style=plastic" alt="ma-ko-dev" /> 
