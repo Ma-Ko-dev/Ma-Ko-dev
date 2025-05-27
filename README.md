@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-ko-dev&theme=juicyfresh&column=3&margin-w=5&margin-h=5&rank=-SECRET" alt="ma-ko-dev" /></a> </p>
 
-- 🔭 I’m currently working on a [Scriptcollection](https://github.com/Ma-Ko-dev/MaCron_Scriptcollection) for [MaCron](https://github.com/Ma-Ko-dev/MaCron)
+- 🔭 I’m currently working on a [Chord Trainer](https://github.com/Ma-Ko-dev/UkuleleAkkordtrainer) to learn and practice Chords on a Ukulele.
 
 - 🌱 I’m currently learning **something new every day ;)**
 
