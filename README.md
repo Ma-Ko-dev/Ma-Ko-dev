@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-ko-dev&theme=juicyfresh&column=3&margin-w=5&margin-h=5&rank=-SECRET" alt="ma-ko-dev" /></a> </p>
 
-- 🔭 I’m currently working on a [Chord Trainer](https://github.com/Ma-Ko-dev/UkuleleAkkordtrainer) to learn and practice Chords on a Ukulele.
+- 🔭 I’m currently working on a [chord trainer](https://github.com/Ma-Ko-dev/UkuleleAkkordtrainer) to learn and practice chords on the ukulele.
 
 - 🌱 I’m currently learning **something new every day ;)**
 
-- ⚡ Fun fact **My Cat is my alternative to a rubber ducky and is probably already a good programmer herself by now.**
+- ⚡ Fun fact: **My cat is my alternative to a rubber ducky and is probably already a good programmer herself by now.**
 
 <p align="left">
 </p>
